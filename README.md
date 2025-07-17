@@ -1,20 +1,21 @@
-# Data Analysis & Visualization
-A comprehensive data analysis project demonstrating end-to-end workflow — from data cleaning and exploration to insightful visualizations and actionable conclusions. This project is built to showcase practical data analysis skills using real-world datasets.
+# Data Exploration and Prediction
+A hands-on project focused on analyzing datasets through exploratory data analysis (EDA), cleaning, and visualization, followed by building predictive models to derive meaningful insights.
 
-## Overview
-This repository contains a complete data analysis project focused on understanding and deriving insights from various datasets.
+## Project Objectives
+- Perform structured data exploration
+- Identify key trends, patterns, and outliers
+- Clean and preprocess raw data for model readiness
+- Apply statistical techniques and machine learning algorithms for prediction
+- Visualize data and model outcomes to support interpretability
 
-## Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+## Technologies & Tools
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - Jupyter Notebook
-- Exploratory Data Analysis (EDA)
-- Data Visualization
+- Machine Learning Algorithms (Linear Regression, Decision Trees, etc.)
 
-## Key Features
-- Data preprocessing and cleaning
-- Trend and pattern identification
-- Visual storytelling
-- Summary of findings and interpretations
-
-## Goal
-To extract meaningful insights from data and enhance decision-making using analytical techniques.
+## What’s Included
+- Exploratory Data Analysis notebooks
+- Data cleaning and preprocessing scripts
+- Model building and evaluation
+- Visualizations and insights
+- Performance metrics for predictions
